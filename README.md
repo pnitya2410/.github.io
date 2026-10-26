@@ -3,7 +3,7 @@
 
 Personal portfolio website showcasing my projects, skills, and certificates.
 
-**Live site:** https://pnitya2410.github.io/.github.io/
+**Live site:** https://pnitya2410.github.io/
 
 ## About
 I'm a web development student at Parul University (2024–2028). This site
